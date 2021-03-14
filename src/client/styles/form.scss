@@ -1,7 +1,17 @@
+@keyframes loading_animation {
+    0%   { transform: rotate(0deg)}
+    100% { transform: rotate(360deg)}
+}
+
 form {
     border: 1px solid #545454;
     border-radius: 3px;
     padding: 40px;
+}
+
+.header-center {
+    text-align: center;
+    font-size: 2em;
 }
 
 input {
@@ -9,4 +19,43 @@ input {
     width: 100%;
     line-height: 16px;
     margin: 10px 0;
+}
+
+#results 
+{
+    table {
+        width: 100%;
+    }
+    table, th, td {
+        border: solid 1px black;
+    }
+
+    th {
+        padding: 10px;
+    }
+
+    td {
+        padding: 15px;
+        text-align: center;
+    }
+
+    span div {
+        vertical-align: top;
+        width: 16px;
+        height: 16px;
+        display: inline-block;
+        background-color: white;
+        border: 1px red;
+        border-top-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-left-style: none;
+        border-radius: 50px;
+        position: relative;
+        animation-name: loading_animation;
+        animation-duration: 0.5s;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+    }
+   
 }
