@@ -79,7 +79,7 @@ This project will allow you to cover the main concepts about Webpack Build tool:
    ```sh
    npm install
    ```
-4. Enter your API in `.env`
+4. Enter your meaningcloud API in `.env`
    ```JS
    API_KEY = 'ENTER YOUR API';
    ```
