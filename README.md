@@ -135,13 +135,13 @@ Project Link: [https://github.com/mark-e-mansour/evaluate-news-nlp](https://gith
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/mark-e-mansour/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/mark-e-mansour/evaluate-news-nlp.svg?style=for-the-badge
 [forks-url]: https://github.com/mark-e-mansour/evaluate-news-nlp/network/members
-[stars-shield]: https://img.shields.io/github/stars/mark-e-mansour/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/mark-e-mansour/evaluate-news-nlp.svg?style=for-the-badge
 [stars-url]: https://github.com/mark-e-mansour/evaluate-news-nlp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mark-e-mansour/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/mark-e-mansour/evaluate-news-nlp.svg?style=for-the-badge
 [issues-url]: https://github.com/mark-e-mansour/evaluate-news-nlp/issues
-[license-shield]: https://img.shields.io/github/license/mark-e-mansour/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/mark-e-mansour/evaluate-news-nlp.svg?style=for-the-badge
 [license-url]: https://github.com/mark-e-mansour/evaluate-news-nlp/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mark-emil-soccar-049906115/
